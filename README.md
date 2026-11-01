@@ -32,13 +32,16 @@ What factors are most associated with exam performance and student well-being?
 > These are associations in the data, not proof of cause and effect.
 
 ## Preview
-![Study Environment](images/study-environment.png)
-![Motivation vs Exam Score](images/motivation.png)
-![Diet and Exercise vs Stress](images/diet-exercise-stress.png)
-![Sleep and Time Management](images/sleep-time-management.png)
+![Study Environment](study-environment.jpg)
+
+![Motivation vs Exam Score](motivation.jpg)
+
+![Diet and Exercise vs Stress](diet-exercise-stress.jpg)
+
+![Sleep and Time Management](sleep-time-management.jpg)
 
 ## How to Open
-1. Download `Projects_DataSet.twbx` from this repo.
+1. Download `Student_Habits_Dashboard.twbx` from this repo.
 2. Open it with Tableau Desktop or Tableau Public.
 
 ## Tools Used
